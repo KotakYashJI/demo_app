@@ -67,7 +67,7 @@ html,body{
     width: 100%;
     position: fixed;
     background-color: black;
-    top: -100%;
+    top: -120%;
     left: 0;
     transition: top 0.8s ease-in-out;
     z-index: 1000;
